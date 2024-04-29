@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Jorest
-- I’m interested in Game development VR and AI
+- 👋 Hi
 - 📫 How to reach me : https://www.linkedin.com/in/jorge-gamedev/
 
 <!---
